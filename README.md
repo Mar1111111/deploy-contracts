@@ -53,3 +53,4 @@ cp wallets-example.txt wallets.txt
 
 
 #### Donate на комсу для тестов (evm) : ```0x28faD3430EcA42e3F89eD585eB10ceB9be35f7b9```
+1
